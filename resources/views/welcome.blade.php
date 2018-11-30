@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    999games
+                    laravel
                 </div>
 
                 <div class="links">
